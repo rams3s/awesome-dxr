@@ -9,6 +9,7 @@
   - [Books](#books)
   - [DXR capable frameworks](#frameworks)
   - [References](#references)
+  - [Tools](#tools)
   - [Tutorials and samples](#tutorials-and-samples)
   - [Videos](#videos)
 - [Related stuff](#related-stuff)
@@ -30,6 +31,9 @@
 
 - [DXR Specifications](http://intro-to-dxr.cwyman.org/spec/DXR_FunctionalSpec_v0.09.docx) - The DirectX Raytracing (DXR) specification v0.09.
 
+### Tools
+
+- Microsoft's [PIX](https://blogs.msdn.microsoft.com/pix/introduction/) - Performance tuning and debugging tool with DirectX Raytracing support.
 
 ### Tutorials and samples
 
