@@ -1,4 +1,4 @@
-# dxr-directx-raytracing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome DXR (DirectX Raytracing) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome DirectX Raytracing (DXR) resources.
 
@@ -6,14 +6,20 @@
 ## Contents
 
 - [Resources](#resources)
+  - [Books](#books)
   - [Tutorials and samples](#tutorials-and-samples)
   - [Videos](#videos)
 - [Related stuff](#related-stuff)
-  - [Books](#books)
-  - [Awesome lists](#awesome-lists)
+  - [Books](#related-books)
+  - [Lists](#lists)
 
 
 ## Resources
+
+### Books
+
+- [Real-Time Ray Tracing](http://www.realtimerendering.com/Real-Time_Rendering_4th-Real-Time_Ray_Tracing.pdf) - Online chapter from the book [Real-Time Rendering, Fourth Edition](http://www.realtimerendering.com), by Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire, August 2018.
+
 
 ### Tutorials and samples
 
@@ -29,14 +35,15 @@
 
 ## Related stuff
 
-### Books
+### Books <a name="related-books"/>
 
 - [Physically based rendering: From Theory to Implementation](https://www.pbrt.org/), Matt Pharr, Wenzel Jakob, Greg Humphreys - A classical book introducing concepts and theory of photorealistic rendering.
 - [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend), Peter Shirley - A rudimentary ray tracer from A to Z (FREE pdfs available on GitHub)
 
-### Awesome lists
+### Lists
 
 - [Awesome D3D12](https://github.com/vinjn/awesome-d3d12) - Another awesome list about general D3D12 programming
+- [Ray Tracing Resources Page](http://www.realtimerendering.com/raytracing.html) - Collection of realtime raytracing resources maintained by the authors of the book [Real-Time Rendering](http://www.realtimerendering.com/).
 
 
 ## Contribute
