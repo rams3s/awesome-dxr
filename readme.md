@@ -37,8 +37,11 @@
 
 ### Books <a name="related-books"/>
 
-- [Physically based rendering: From Theory to Implementation](https://www.pbrt.org/), Matt Pharr, Wenzel Jakob, Greg Humphreys - A classical book introducing concepts and theory of photorealistic rendering.
-- [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend), Peter Shirley - A rudimentary ray tracer from A to Z (FREE pdfs available on GitHub)
+- [Physically based rendering: From Theory to Implementation, 3rd edition](https://www.pbrt.org/), by Matt Pharr, Wenzel Jakob, and Greg Humphreys, November 2016 - A classical book introducing concepts and theory of photorealistic rendering.
+- Ray Tracing in One Weekend Series, by Peter Shirley, 2016 - A rudimentary ray tracer from A to Z
+  - [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
+  - [Ray Tracing: The Next Week](https://github.com/petershirley/raytracingthenextweek)
+  - [Ray Tracing: The Rest Of Your Life](https://github.com/petershirley/raytracingtherestofyourlife)
 
 ### Lists
 
