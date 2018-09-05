@@ -7,6 +7,7 @@
 
 - [Resources](#resources)
   - [Books](#books)
+  - [DXR capable frameworks](#frameworks)
   - [References](#references)
   - [Tutorials and samples](#tutorials-and-samples)
   - [Videos](#videos)
@@ -20,6 +21,10 @@
 ### Books
 
 - [Real-Time Ray Tracing](http://www.realtimerendering.com/Real-Time_Rendering_4th-Real-Time_Ray_Tracing.pdf) - Online chapter from the book [Real-Time Rendering, Fourth Edition](http://www.realtimerendering.com), by Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire, August 2018.
+
+### DXR capable frameworks <a name="frameworks"/>
+
+- NVIDIA's [Falcor](https://developer.nvidia.com/falcor) - Open-source real-time rendering framework designed specifically for rapid prototyping.
 
 ### References
 
