@@ -8,6 +8,7 @@
 - [Resources](#resources)
   - [Books](#books)
   - [DXR capable frameworks](#frameworks)
+  - [Presentations](#presentations)
   - [References](#references)
   - [Tools](#tools)
   - [Tutorials and samples](#tutorials-and-samples)
@@ -26,6 +27,10 @@
 ### DXR capable frameworks <a name="frameworks"/>
 
 - NVIDIA's [Falcor](https://developer.nvidia.com/falcor) - Open-source real-time rendering framework designed specifically for rapid prototyping.
+
+### Presentations
+
+- EA SEED: [PICA PICA and NVIDIA Turing](https://www.ea.com/seed/news/siggraph-2018-picapica-nv-turing), by Colin Barré-Brisebois and Henrik Halén - SIGGRAPH 2018 presentation showing PICA PICA running on NVIDIA's Turing architecture (with performance comparisons agains Volta).
 
 ### References
 
