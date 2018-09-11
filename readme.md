@@ -26,6 +26,7 @@
 
 ### DXR capable frameworks <a name="frameworks"/>
 
+- ConfettiFX [The Forge](https://github.com/ConfettiFX/The-Forge) - Open-source Cross-Platform Rendering Framework supporting PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4.
 - NVIDIA's [Falcor](https://developer.nvidia.com/falcor) - Open-source real-time rendering framework designed specifically for rapid prototyping.
 
 ### Presentations
